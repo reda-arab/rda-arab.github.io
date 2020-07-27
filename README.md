@@ -1,6 +1,6 @@
 ## Bio
 
-I am a master's student in Mathematical Statistics at the [University of Cambridge](http://www.dpmms.cam.ac.uk/). I am graduated from [Ecole CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec) [(Centrale Paris pathway)](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris) within [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University) [(see Shanghai Raking in Mathematics)](http://www.shanghairanking.com/Shanghairanking-Subject-Rankings/mathematics.html) and before that, I completed two years of preparatory program (CPGE) at [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand). Here is my [CV] (reda18601.github.io/CV_Github.pdf)
+I am a master's student in Mathematical Statistics at the [University of Cambridge](http://www.dpmms.cam.ac.uk/). I am graduated from [Ecole CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec) [(Centrale Paris pathway)](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris) within [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University) [(see Shanghai Raking in Mathematics)](http://www.shanghairanking.com/Shanghairanking-Subject-Rankings/mathematics.html) and before that, I completed two years of preparatory program (CPGE) at [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand). Here is my [CV] (CV-Github.pdf)
 
 ## Research Projects
 
