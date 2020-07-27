@@ -1,4 +1,4 @@
-# reda18061-github.io
+# reda18061.github.io
 
 I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology. Prior to joining MIT, I graduated from Ecole Polytechnique Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand.
 
