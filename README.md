@@ -7,3 +7,4 @@ I am a master's student in Mathematical Statistics at the Univeristy of Cambridg
 
 For CPGE students
 Here are some courses summaries I made that might help you: [Fiches de cours](MohammedAmine-Bennouna.github.io/Fiches de cours - Amine Bennouna.7z). You can also find my prépa research report (TIPE) about Prince Rupert's Drop [here](MohammedAmine-Bennouna.github.io/La Goutte Du Prince Rupert - Dossier.pdf).
+
