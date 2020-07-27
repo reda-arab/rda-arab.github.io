@@ -5,6 +5,6 @@ I am a master's student in Mathematical Statistics at the [University of Cambrid
 ## Research Projects
 
 I am currently a graduate research assistant in the [Department of Medical Genetics](https://medgen.medschl.cam.ac.uk/) of the University of Cambridge, working on Application of Polya-Gamma density for highly dimensional count regression models. 
-Advisor [Leonardo Bottolo](https://www.c2d3.cam.ac.uk/directory/266/dr-leonardo-bottolo).
+Advisor : [Leonardo Bottolo](https://www.c2d3.cam.ac.uk/directory/266/dr-leonardo-bottolo).
 
 
