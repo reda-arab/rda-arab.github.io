@@ -1,6 +1,6 @@
 ## Bio
 
-I am a master's student in Mathematical Statistics at the [University of Cambridge](http://www.dpmms.cam.ac.uk/). I am graduated from Ecole CentraleSupélec (Centrale Paris pathway), Paris-Saclay University and before that, I completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. Here is my [CV] (CV_Github.pdf)
+I am a master's student in Mathematical Statistics at the [University of Cambridge](http://www.dpmms.cam.ac.uk/). I am graduated from Ecole CentraleSupélec (Centrale Paris pathway), Paris-Saclay University and before that, I completed two years of preparatory program (CPGE) at Lycée Louis-le-Grand. Here is my [CV] (CV_Github.pdf)
 
 ## Research Projects
 
