@@ -6,7 +6,7 @@ Here is my [CV](CV-Github.pdf).
 
 ## Research Projects
 
-I am currently a graduate research assistant in the [Department of Medical Genetics](https://medgen.medschl.cam.ac.uk/) of the University of Cambridge, working on *Application of Polya-Gamma density for highly dimensional count regression models.* 
+I am currently a graduate research assistant in the [Department of Medical Genetics](https://medgen.medschl.cam.ac.uk/) of the University of Cambridge, working on *Application of Polya-Gamma density for highly dimensional count regression models.*  
 Advisor : [Leonardo Bottolo](https://www.c2d3.cam.ac.uk/directory/266/dr-leonardo-bottolo).
 
 
